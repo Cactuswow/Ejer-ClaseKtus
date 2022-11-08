@@ -20,6 +20,13 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    gap: 20px;
+    gap: 40px;
     transform: translate(-50%, -50%);
+}
+.Nuevo-Git {
+    background-image: url(images.jpg);
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    margin: 0 auto;
 }
